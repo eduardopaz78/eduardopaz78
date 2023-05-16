@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalhando como Oficial do Exército Brasileiro
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas - Universidade do Vale do Rio dos Sinos
-- 📫 Contato no e-mail: edupaz78@gmail.com
+- 📫 Contato no e-mail: contato@eduardopaz.dev
 ##
 ![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardopaz78&show_icons=true&theme=dark)
 
